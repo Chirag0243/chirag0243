@@ -24,5 +24,4 @@ Here are some ideas to get you started:
 ![Total contributions and streaks](https://github-readme-streak-stats.herokuapp.com/?user=dhruvkelawala&theme=vue-dark)
 </br></br>
 ![Chirag's Github stats](https://github-readme-stats.vercel.app/api/top-langs?username=dhruvkelawala&layout=compact&theme=vue-dark)
-![Jokes Card](https://readme-jokes.vercel.app/api)
 
