@@ -17,5 +17,7 @@ Here are some ideas to get you started:
 //most used langauges
 ![Chirag's Github stats](https://github-readme-stats.vercel.app/api/top-langs?username=Chirag0243)
 -->
-![Chirag's Github stats](https://github-readme-stats.vercel.app/api?username=Chirag0243&show_icons=true&&theme=vue_dark)
+
+
+![Chirag's Github stats](https://github-readme-stats.vercel.app/api?username=Chirag0243&show_icons=true&&theme=vue-dark)
 
