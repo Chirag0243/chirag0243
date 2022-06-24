@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+[![](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@zluvsand)
+
 
 //most used langauges
 ![Chirag's Github stats](https://github-readme-stats.vercel.app/api/top-langs?username=Chirag0243)
@@ -25,4 +27,4 @@ Here are some ideas to get you started:
 </br></br>
 ![Chirag's Github stats](https://github-readme-stats.vercel.app/api/top-langs?username=dhruvkelawala&layout=compact&theme=vue-dark)
 </br></br>
-[![](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@zluvsand)
+![](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white&height=50)](https://medium.com/@zluvsand)
