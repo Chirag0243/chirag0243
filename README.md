@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 
 ![Chirag's Github stats](https://github-readme-stats.vercel.app/api?username=Chirag0243&show_icons=true&&theme=vue-dark)
 </br></br>
-![Chirag's Github stats](https://github-readme-stats.vercel.app/api/top-langs?username=dhruvkelawala&layout=compact&theme=vue-dark)
-</br></br>
 ![Total contributions and streaks](https://github-readme-streak-stats.herokuapp.com/?user=dhruvkelawala&theme=vue-dark)
+</br></br>
+![Chirag's Github stats](https://github-readme-stats.vercel.app/api/top-langs?username=dhruvkelawala&layout=compact&theme=vue-dark)
+
